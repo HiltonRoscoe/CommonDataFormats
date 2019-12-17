@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # Common Data Formats
 
