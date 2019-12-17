@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# NIST CDFs
-
 This page is designed to provide an update to date set of resources to those interested in learning more about Common Data Formats for Election Data.
 
 - [Cast Vote Records](https://github.com/usnistgov/CastVoteRecords)
