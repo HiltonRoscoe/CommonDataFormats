@@ -2,14 +2,14 @@
 layout: default
 ---
 
-This page is designed to provide an update to date set of resources to those interested in learning more about Common Data Formats for Election Data.
+This page provides an up to date set of resources for those interested in learning more about Common Data Formats for Election Data.
 
 - [Cast Vote Records](https://github.com/usnistgov/CastVoteRecords)
 - [Election Event Logging](https://github.com/usnistgov/ElectionEventLogging)
 - [Election Results Reporting](https://github.com/usnistgov/ElectionResultsReporting)
 - [Voter Records Interchange](https://github.com/usnistgov/VoterRecordsInterchange)
 
-## Promotional Materials
+## Articles and summaries
 
 - [Common Data Formats for Election Systems
     Webinar](https://www.youtube.com/watch?v=jmvUMw3V9oU)
