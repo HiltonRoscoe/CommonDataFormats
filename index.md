@@ -2,16 +2,16 @@
 layout: default
 ---
 
-# Common Data Formats
+# NIST CDFs
 
-## NIST CDFs
+This page is designed to provide an update to date set of resources to those interested in learning more about Common Data Formats for Election Data.
 
 - [Cast Vote Records](https://github.com/usnistgov/CastVoteRecords)
 - [Election Event Logging](https://github.com/usnistgov/ElectionEventLogging)
 - [Election Results Reporting](https://github.com/usnistgov/ElectionResultsReporting)
 - [Voter Records Interchange](https://github.com/usnistgov/VoterRecordsInterchange)
 
-### Promotional Materials
+## Promotional Materials
 
 - [Common Data Formats for Election Systems
     Webinar](https://www.youtube.com/watch?v=jmvUMw3V9oU)
@@ -24,12 +24,13 @@ layout: default
 - [CDF Workshop
 Presentations](https://drive.google.com/drive/folders/1ZwHrVQbqTSBerxNYV5GEi09qjEY8QUYO)
 
-[CdfTools](https://github.com/HiltonRoscoe/CdfTools)
+## Tooling
 
-[Model Driven Architecture
+- [CdfTools](https://github.com/HiltonRoscoe/CdfTools)
+- [Model Driven Architecture
 Explainer](https://github.com/HiltonRoscoe/CDFPrototype/blob/master/mapping.md)
 
-### Election Results Reporting
+## Election Results Reporting
 
 - [Specification
     repository](https://github.com/usnistgov/ElectionResultsReporting)
@@ -38,7 +39,7 @@ Explainer](https://github.com/HiltonRoscoe/CDFPrototype/blob/master/mapping.md)
 - [Schematron
     ruleset](https://github.com/HiltonRoscoe/CDFPrototype/tree/master/ENR/v2/sch)
 
-### Cast Vote Records
+## Cast Vote Records
 
 - [Specification
     repository](https://github.com/usnistgov/CastVoteRecords)
@@ -47,7 +48,7 @@ Explainer](https://github.com/HiltonRoscoe/CDFPrototype/blob/master/mapping.md)
 - [Schematron
     ruleset](https://github.com/HiltonRoscoe/CDFPrototype/tree/master/CVR/sch)
 
-### Voter Records Interchange
+## Voter Records Interchange
 
 - [Specification
     repository](https://github.com/usnistgov/VoterRecordsInterchange)
@@ -56,11 +57,11 @@ Explainer](https://github.com/HiltonRoscoe/CDFPrototype/blob/master/mapping.md)
 - [Additional use-cases and
     examples](https://github.com/pstenbjorn/VRIUsecases)
 
-### JSON Only Tools
+## JSON Only Tools
 
 - [Semval](https://github.com/HiltonRoscoe/semval)
 
-### XML Only Tools
+## XML Only Tools
 
 - [Subset
     Schema](https://github.com/HiltonRoscoe/CDFPrototype/blob/master/subset/SUBSET.md)
