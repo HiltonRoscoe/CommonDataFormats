@@ -4,6 +4,8 @@ layout: default
 
 This page provides an up to date set of resources for those interested in learning more about Common Data Formats for Election Data.
 
+## Specifications
+
 - [Cast Vote Records](https://github.com/usnistgov/CastVoteRecords)
 - [Election Event Logging](https://github.com/usnistgov/ElectionEventLogging)
 - [Election Results Reporting](https://github.com/usnistgov/ElectionResultsReporting)
@@ -55,3 +57,5 @@ Explainer](https://github.com/HiltonRoscoe/CDFPrototype/blob/master/mapping.md) 
 
 - [Subset
     Schema](https://github.com/HiltonRoscoe/CDFPrototype/blob/master/subset/SUBSET.md) `Whitepaper`
+
+Thanks to [Democracy Fund](https://www.democracyfund.org/) for supporting much of this work.
