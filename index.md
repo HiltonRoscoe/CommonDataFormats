@@ -13,7 +13,7 @@ This page provides an up to date set of resources for those interested in learni
 
 ## Articles and summaries
 
-- [Common Data Formats for Election Systems](https://www.youtube.com/watch?v=jmvUMw3V9oU) `Article`
+- [Common Data Formats for Election Systems](https://www.youtube.com/watch?v=jmvUMw3V9oU) `Webinar`
 - [Common Data Formats — What's In Them For Legislators?](http://www.ncsl.org/research/elections-and-campaigns/the-canvass-september-2017.aspx) `Article`
 - [Making Election Testing Faster, Cheaper and More Transparent](https://www.eac.gov/making-election-testing-faster-cheaper-more-transparent/) `Article`
 - [Speaking a common language](https://electionline.org/electionline-weekly/2018/03-22/) `Article`
