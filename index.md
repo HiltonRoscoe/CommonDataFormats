@@ -53,4 +53,4 @@ This section provides links to explanatory white papers and tooling supporting t
 
 - [Schematron rulesets](https://github.com/HiltonRoscoe/SchematronMD) `Whitepaper`
 
-Thanks to [Democracy Fund](https://www.democracyfund.org/) for supporting much of this work.
+Thanks to [Democracy Fund](https://www.democracyfund.org/) for supporting much of this work. Contact [John Dziurlaj](john@hiltonroscoe.com) with questions or comments.
