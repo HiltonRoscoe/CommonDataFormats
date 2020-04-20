@@ -53,4 +53,17 @@ This section provides links to explanatory white papers and tooling supporting t
 
 - [Schematron rulesets](https://github.com/HiltonRoscoe/SchematronMD) `Whitepaper`
 
+## Mailing List
+
+Hilton Roscoe hosts a mailing list for those interested in implementing the Common Data Formats. Topics include:
+
+- Implementation guidance
+- Tooling for validation and conformance
+- Testing and certification concerns
+- Handling large CDF datafiles
+- Transformation between XML and JSON
+- Working with XML and JSON Schemas
+
+ Please visit [this page](https://groups.google.com/a/hiltonroscoe.com/forum/#!forum/cdf-implementation) or send an email to cdf-implementation+subscribe@hiltonroscoe.com to subscribe.
+
 Thanks to [Democracy Fund](https://www.democracyfund.org/) for supporting much of this work. Contact [John Dziurlaj](mailto:john@hiltonroscoe.com) with questions or comments.
