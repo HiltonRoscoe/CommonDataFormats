@@ -52,6 +52,7 @@ This section provides links to explanatory white papers and tooling supporting t
 ### XML Specific
 
 - [Schematron rulesets](https://github.com/HiltonRoscoe/SchematronMD) `Whitepaper`
+- [CDFs form the ground up: XML Fundamentals](https://youtu.be/DivqWtit8ds) `Webinar`
 
 ## Mailing List
 
