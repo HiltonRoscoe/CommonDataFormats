@@ -23,6 +23,6 @@ Hilton Roscoe LLC is an expert in the NIST 1500 Common Data Formats. We have ass
 - IT standards development
 
 ## Learn more
-- [info@hiltonroscoe.com](info@hiltonroscoe.com)
+- [info@hiltonroscoe.com](mailto:info@hiltonroscoe.com)
 
 Hilton Roscoe LLC is an Ohio based company.
