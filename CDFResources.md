@@ -26,6 +26,7 @@ This section provides links to explanatory white papers and tooling supporting t
 - [CdfTools](https://github.com/HiltonRoscoe/CdfTools) `Tool`
 - [CdfConverter](https://hiltonroscoe.github.io/CDFConverter) `Tool`
 - [Model Driven Architecture Explainer](https://github.com/HiltonRoscoe/CDFPrototype/blob/master/mapping.md) `Whitepaper`
+- [Relational Schemas from CDFs](https://github.com/HiltonRoscoe/CDFPrototype/blob/master/relational/relational.md)
 - [Subset Schema](http://bowencenterforpublicaffairs.org/wp-content/uploads/2019/06/John-Dziurlaj.pdf) `Presentation`
 - [Subset Schema](https://github.com/HiltonRoscoe/CDFPrototype/blob/master/subset/SUBSET.md) `Whitepaper`
 
