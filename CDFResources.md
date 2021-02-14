@@ -29,6 +29,7 @@ This section provides links to explanatory white papers and tooling supporting t
 - [Relational Schemas from CDFs](https://github.com/HiltonRoscoe/CDFPrototype/blob/master/relational/relational.md) `Whitepaper`
 - [Subset Schema](http://bowencenterforpublicaffairs.org/wp-content/uploads/2019/06/John-Dziurlaj.pdf) `Presentation`
 - [Subset Schema](https://github.com/HiltonRoscoe/CDFPrototype/blob/master/subset/SUBSET.md) `Whitepaper`
+- [Validating Common Data Format Implementations](https://www.youtube.com/watch?v=36zXy3wYwb8) `Webinar`
 
 ### Election Results Reporting
 
