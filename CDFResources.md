@@ -6,6 +6,7 @@ This page provides an up to date set of resources for those interested in learni
 
 ## Specifications
 
+- [Ballot Definition](https://github.com/usnistgov/BallotDefinition)
 - [Cast Vote Records](https://github.com/usnistgov/CastVoteRecords)
 - [Election Event Logging](https://github.com/usnistgov/ElectionEventLogging)
 - [Election Results Reporting](https://github.com/usnistgov/ElectionResultsReporting)
@@ -25,7 +26,7 @@ This section provides links to explanatory white papers and tooling supporting t
 
 - [CdfTools](https://github.com/HiltonRoscoe/CdfTools) `Tool`
 - [CdfConverter](https://hiltonroscoe.github.io/CDFConverter) `Tool`
-- [Model Driven Architecture Explainer](https://github.com/HiltonRoscoe/CDFPrototype/blob/master/mapping.md) `Whitepaper`
+- [Model Driven Architecture Explainer](https://github.com/HiltonRoscoe/CDFPrototype/blob/master/mapping/mapping.md) `Whitepaper`
 - [Relational Schemas from CDFs](https://github.com/HiltonRoscoe/CDFPrototype/blob/master/relational/relational.md) `Whitepaper`
 - [Subset Schema](http://bowencenterforpublicaffairs.org/wp-content/uploads/2019/06/John-Dziurlaj.pdf) `Presentation`
 - [Subset Schema](https://github.com/HiltonRoscoe/CDFPrototype/blob/master/subset/SUBSET.md) `Whitepaper`
@@ -56,6 +57,7 @@ This section provides links to explanatory white papers and tooling supporting t
 
 - [Schematron rulesets](https://github.com/HiltonRoscoe/SchematronMD) `Whitepaper`
 - [CDFs form the ground up: XML Fundamentals](https://youtu.be/DivqWtit8ds) `Webinar`
+- [XML Editor](https://github.com/HiltonRoscoe/exchangerxml) `tool`
 
 ## Mailing List
 
