@@ -10,6 +10,7 @@ This page provides an up to date set of resources for those interested in learni
 - [Cast Vote Records](https://github.com/usnistgov/CastVoteRecords)
 - [Election Event Logging](https://github.com/usnistgov/ElectionEventLogging)
 - [Election Results Reporting](https://github.com/usnistgov/ElectionResultsReporting)
+- [microCDF](https://github.com/usnistgov/mcdf)
 - [Voter Records Interchange](https://github.com/usnistgov/VoterRecordsInterchange)
 
 ## Articles and summaries
@@ -26,7 +27,9 @@ This section provides links to explanatory white papers and tooling supporting t
 
 - [CdfTools](https://github.com/HiltonRoscoe/CdfTools) `Tool`
 - [CdfConverter](https://hiltonroscoe.github.io/CDFConverter) `Tool`
+- [Gap Analysis for Key Interoperability Scenarios in Election Technology](https://doi.org/10.6028/NIST.GCR.22-033) `Whitepaper`
 - [Model Driven Architecture Explainer](https://github.com/HiltonRoscoe/CDFPrototype/blob/master/mapping/mapping.md) `Whitepaper`
+- [Recommendations for Voting System Interoperability](https://doi.org/10.6028/NIST.GCR.22-034) `Whitepaper`
 - [Relational Schemas from CDFs](https://github.com/HiltonRoscoe/CDFPrototype/blob/master/relational/relational.md) `Whitepaper`
 - [Subset Schema](http://bowencenterforpublicaffairs.org/wp-content/uploads/2019/06/John-Dziurlaj.pdf) `Presentation`
 - [Subset Schema](https://github.com/HiltonRoscoe/CDFPrototype/blob/master/subset/SUBSET.md) `Whitepaper`
